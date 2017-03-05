@@ -1,0 +1,24 @@
+form{
+    margin: 0 auto;
+    width: 575px;
+    padding: 1em;
+    border: 4px solid #CCC;
+    border-radius: 1em;
+    border-color: black;
+}
+
+h1{
+text-align: center;
+color:white;
+font-family: sans-serif;
+}
+
+body {
+color:black;
+background-color:white;
+background-image:url(image.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:100%;
+text-align: center;
+}
